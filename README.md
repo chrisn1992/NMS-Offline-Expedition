@@ -45,9 +45,13 @@ Because it is community-driven and time-limited events, we will not be able to r
 #### What to do?
 1. Download and replace file in the path with:
 `%APPDATA%\Roaming\HelloGames\NMS\st_[yourSteamId64]\cache\SEASON_DATA_CACHE.JSON`
+
 	[Expedition 1](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_1/SEASON_DATA_CACHE.JSON "Expedition 1")
+	
 	[Expedition 2](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_2/SEASON_DATA_CACHE.JSON "Expedition 2")
+	
 	[Expedition 3](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_3/SEASON_DATA_CACHE.JSON "Expedition 3")
+	
 1. Put your computer into completely offline by turn off Internet connection/or put Steam into Offline
 1. Set your system clock to the time range of the specific expedition(see below table)
 1. Get into the game and enjoy
