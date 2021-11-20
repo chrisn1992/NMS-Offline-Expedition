@@ -4,7 +4,7 @@
 - 1.0: Initial Content
 - 1.1: Update with cache file for Offline mode from Expedition 1 (Pioneer) [See Steps section]
 - 1.2: Update with cache file for Offline mode from Expedition 2 & 3 [See Steps section]; remove "Instant unlock" section due to duplication of other guides; updated title
-
+- 1.2: Update with cache file for Offline mode from Expedition 4 [See Steps section];
 ------------
 
 ### Expedition Update
@@ -52,6 +52,8 @@ Because it is community-driven and time-limited events, we will not be able to r
 	
 	[Expedition 3](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_3/SEASON_DATA_CACHE.JSON "Expedition 3")
 	
+	[Expedition 4](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_4/SEASON_DATA_CACHE.JSON "Expedition 4")
+	
 1. Put your computer into completely offline by turn off Internet connection/or put Steam into Offline
 1. Set your system clock to the time range of the specific expedition(see below table)
 1. Get into the game and enjoy
@@ -61,7 +63,7 @@ Because it is community-driven and time-limited events, we will not be able to r
 | 1 | Monday, March 1, 2021 12:00:00 AM UTC  | Monday, May 17, 2021 12:00:00 AM UTC |
 | 2 | Monday, May 17, 2021 01:00:00 PM UTC | Monday, May 31, 2021 02:00:00 PM UTC |
 | 3 | Wednesday, September 8, 2021 01:00:00 PM UTC | Monday, October 18, 2021 10:00:00 AM |
-| 4 | TBA | TBA |
+| 4 | Wednesday, October 20, 2021 12:00:00 PM | Monday, November 22, 2021 10:00:00 AM |
 
 ### Notes
 ##### During Expedition 2, you may encounter an issue that you cannot obtain the Myth Beacon from Quick Silver vendor. If it happens, you will need to give yourself the Myth Beacon by using any inventory editor you can find.
