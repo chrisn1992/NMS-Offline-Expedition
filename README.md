@@ -4,7 +4,9 @@
 - 1.0: Initial Content
 - 1.1: Update with cache file for Offline mode from Expedition 1 (Pioneer) [See Steps section]
 - 1.2: Update with cache file for Offline mode from Expedition 2 & 3 [See Steps section]; remove "Instant unlock" section due to duplication of other guides; updated title
-- 1.2: Update with cache file for Offline mode from Expedition 4 [See Steps section];
+- 1.3: Update with cache file for Offline mode from Expedition 4 [See Steps section];
+- 1.4: Update with cache file for Offline mode from Expedition 5 (1-Rerun) [See Steps section];
+
 ------------
 
 ### Expedition Update
