@@ -67,7 +67,7 @@ Because it is community-driven and time-limited events, we will not be able to r
 	
 	[Expedition 8(4-Rerun)](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_8/SEASON_DATA_CACHE.JSON "Expedition 8(4-Rerun)")
 	
-	[Expedition 9(5)](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_8/SEASON_DATA_CACHE.JSON "Expedition 9(5)")
+	[Expedition 9(5)](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/SEASON_9/SEASON_DATA_CACHE.JSON "Expedition 9(5)")
 	
 1. Put your computer into completely offline by turn off Internet connection/or put Steam into Offline
 1. Set your system clock to the time range of the specific expedition(see below table)
