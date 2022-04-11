@@ -7,6 +7,8 @@
 - 1.3: Update with cache file for Offline mode from Expedition 4 [See Steps section];
 - 1.4: Update with cache file for Offline mode from Expedition 5 (1-Rerun) [See Steps section];
 - 1.5: Update with cache file for Offline mode from Expedition 6 - 7 (2/3-Rerun) [See Steps section];
+- 1.6: Update with cache file for Offline mode from Expedition 8 (4-Rerun) [See Steps section];
+- 1.7: Update with cache file for Offline mode from Expedition 9 (5) [See Steps section];
 
 ------------
 
@@ -63,6 +65,10 @@ Because it is community-driven and time-limited events, we will not be able to r
 	
 	[Expedition 7(3-Rerun)](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_7/SEASON_DATA_CACHE.JSON "Expedition 7(3-Rerun)")
 	
+	[Expedition 8(4-Rerun)](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_8/SEASON_DATA_CACHE.JSON "Expedition 8(4-Rerun)")
+	
+	[Expedition 9(5)](https://raw.githubusercontent.com/chrisn1992/NMS_Season_Cache_Repos/main/Season_8/SEASON_DATA_CACHE.JSON "Expedition 9(5)")
+	
 1. Put your computer into completely offline by turn off Internet connection/or put Steam into Offline
 1. Set your system clock to the time range of the specific expedition(see below table)
 1. Get into the game and enjoy
@@ -76,5 +82,8 @@ Because it is community-driven and time-limited events, we will not be able to r
 | 5(1-Rerun) | Wednesday, November 24, 2021 2:00:00 PM | Tuesday, December 7, 2021 2:00:00 PM |
 | 6(2-Rerun) | Wednesday, 8 December 2021 2:00:00 PM | Tuesday, 21 December 2021 2:00:00 PM |
 | 7(3-Rerun) | Wednesday, 22 December 2021 2:00:00 PM | Tuesday, 4 January 2022 2:00:00 PM |
+| 8(4-Rerun) | Wednesday, Jan 05 2022 14:00:00 | Wednesday, Jan 19 2022 14:00:00 |
+| 9(5) | Thu Feb 24 2022 11:00:00 | Tue Apr 04 2022 23:59:00 |
+
 ### Notes
 ##### During Expedition 2, you may encounter an issue that you cannot obtain the Myth Beacon from Quick Silver vendor. If it happens, you will need to give yourself the Myth Beacon by using any inventory editor you can find.
